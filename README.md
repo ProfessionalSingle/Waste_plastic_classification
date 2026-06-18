@@ -3,7 +3,7 @@
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/ProfessionalSingle/waste_plastic_Classfifcation.git
+git clone https://github.com/ProfessionalSingle/waste_plastic_classfifcation.git
 
 cd rob_env
 ```
