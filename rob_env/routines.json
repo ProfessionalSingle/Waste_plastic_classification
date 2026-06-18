@@ -1,0 +1,66 @@
+{
+    "s": [
+        {
+            "type": "continuous",
+            "servo": 2,
+            "direction": "ccw",
+            "degrees": 270.0
+        },
+        {
+            "type": "continuous",
+            "servo": 3,
+            "direction": "cw",
+            "degrees": 90.0
+        },
+        {
+            "type": "positional",
+            "servo": 5,
+            "angle": 45.0
+        },
+        {
+            "type": "positional",
+            "servo": 6,
+            "angle": 0.0
+        },
+        {
+            "type": "positional",
+            "servo": 5,
+            "angle": 90.0
+        },
+        {
+            "type": "continuous",
+            "servo": 3,
+            "direction": "ccw",
+            "degrees": 90.0
+        },
+        {
+            "type": "continuous",
+            "servo": 2,
+            "direction": "cw",
+            "degrees": 270.0
+        },
+        {
+            "type": "continuous",
+            "servo": 1,
+            "direction": "cw",
+            "degrees": 180.0
+        },
+        {
+            "type": "continuous",
+            "servo": 2,
+            "direction": "ccw",
+            "degrees": 270.0
+        },
+        {
+            "type": "positional",
+            "servo": 6,
+            "angle": 180.0
+        },
+        {
+            "type": "continuous",
+            "servo": 2,
+            "direction": "cw",
+            "degrees": 270.0
+        }
+    ]
+}
